@@ -1,15 +1,14 @@
-# Pool Simulator (WIP)
-Simulates the game of pool using python
+# Traffic Simulator (WIP)
+WIP simulation of cars on the road
 
 ## Installation
 ```
-# git clone https://github.com/NeilGhose/pool.git
-# pip3 install pygame
+# git clone https://github.com/NeilGhose/traffic-simulator.git
 ```
 
 ## Setup
 
 3. Launch Program
 ```
-# python3 pool.py
+# python3 traffic.py
 ```
